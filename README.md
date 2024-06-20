@@ -11,8 +11,8 @@ Answer the following questions based on your understanding of the installation a
    
 PREREQUISITES:
 
-1. System requirements:ensure your pc meets the minimum requirements for running vs code and windows 11.
-2. Administrator access:you may need administrator privileges on your computer to install software.
+2. System requirements:ensure your pc meets the minimum requirements for running vs code and windows 11.
+3. Administrator access:you may need administrator privileges on your computer to install software.
 
 STEPS TO DOWNLOAD AND INSTALL VISUAL CODE ON WINDOWS 11:
 
